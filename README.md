@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iovayurt
 - 👀 I’m interested in game developing, C# 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my next projects
 - 📫 How to reach me iovayurt@gmail.com
 
 <!---
